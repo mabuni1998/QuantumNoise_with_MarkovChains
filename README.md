@@ -1,5 +1,5 @@
 # Modeling nanolaser quantum noise with Master equations, Markov chains and langevin stochastic differential equations
-An implementation of various techniques for calculating quantum noise in lasers used in [paperlink](paperlink). For necessary context of the implementation, see the paper. The majority of methods are written in the programming language Julia and some in python. A similar implementation (without langevin rate equations and master equation) is also available at: [https://github.com/mabuni1998/GFRM-laser-quantum-phase-noise](https://github.com/mabuni1998/GFRM-laser-quantum-phase-noise). 
+An implementation of various techniques for calculating quantum noise in lasers used in [Phys. Rev. A 113, 043704, 2026](https://journals.aps.org/pra/abstract/10.1103/f6f5-8dv8). For necessary context of the implementation, see the paper. The majority of methods are written in the programming language Julia and some in python. A similar implementation (without langevin rate equations and master equation) is also available at: [https://github.com/mabuni1998/GFRM-laser-quantum-phase-noise](https://github.com/mabuni1998/GFRM-laser-quantum-phase-noise). 
 
 # Installation and usage
 
